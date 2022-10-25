@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_rest_message_fn_parameters">
+    <sys_rest_message_fn_parameters action="INSERT_OR_UPDATE">
+        <name>ipaddress</name>
+        <rest_message_function display_value="getCity">dafddd81973611104d66f8971153af46</rest_message_function>
+        <sys_class_name>sys_rest_message_fn_parameters</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-10-25 18:13:07</sys_created_on>
+        <sys_id>675ed505973611104d66f8971153af24</sys_id>
+        <sys_name>ipaddress</sys_name>
+        <sys_package display_value="IPLookup" source="x_908879_iplookup">555659c997f211104d66f8971153af1b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="IPLookup">555659c997f211104d66f8971153af1b</sys_scope>
+        <sys_update_name>sys_rest_message_fn_parameters_675ed505973611104d66f8971153af24</sys_update_name>
+        <type>string</type>
+        <value>1.1.1.1</value>
+    </sys_rest_message_fn_parameters>
+</record_update>
